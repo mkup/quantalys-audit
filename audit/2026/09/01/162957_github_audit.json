@@ -1,0 +1,11 @@
+{
+  "account_id": "github_audit",
+  "timestamp_eastern": "2026-09-01T16:29:57",
+  "signals": {
+    "IWM": 1.0,
+    "DIA": 1.0,
+    "JPM": 1.0,
+    "SPY": 1.0,
+    "AMD": 1.0
+  }
+}
