@@ -1,0 +1,9 @@
+{
+  "account_id": "github_audit",
+  "timestamp_eastern": "2026-10-23T15:50:09",
+  "signals": {
+    "TLT": -1.0,
+    "QQQ": 1.0,
+    "NVDA": -1.0
+  }
+}
